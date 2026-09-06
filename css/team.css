@@ -1,0 +1,28 @@
+#team {
+    background: #f4f4fd;
+}
+
+.our-team {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.workers {
+    background-color: #fff;
+}
+
+.workers-name {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.workers-position {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #434455;
+}
